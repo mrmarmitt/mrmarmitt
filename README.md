@@ -1,14 +1,13 @@
 # 👋 Olá! Eu sou Mateus Rufino Marmitt
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend+S%C3%AAnior;10+Anos+de+Experi%C3%AAncia;Especialista+em+Java+%26+Spring+Boot;Arquitetura+de+Microsservi%C3%A7os" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=300&lines=Desenvolvedor+Backend" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
 
-**Desenvolvedor Backend Sênior** com **10 anos de experiência** em desenvolvimento de software, especializado em arquiteturas escaláveis e soluções robustas. Bacharel em Engenharia da Computação pela UNIVATES, com sólida experiência em **trabalho remoto** e liderança técnica de equipes.
+**Desenvolvedor Backend Sênior** especializado em arquiteturas escaláveis e soluções robustas. Bacharel em Engenharia da Computação pela UNIVATES, com sólida experiência em **trabalho remoto** e liderança técnica de equipes.
 
-📍 **Localização:** Venâncio Aires - RS, Brasil  
 🎯 **Foco:** Desenvolvimento Backend, Arquitetura de Software, Mentoria Técnica
 
 ## 🛠️ Stack Tecnológica
@@ -82,7 +81,11 @@
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/mrmarmitt/mrmarmitt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmarmitt/mrmarmitt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrmarmitt/mrmarmitt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmarmitt/mrmarmitt/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
