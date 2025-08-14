@@ -60,8 +60,8 @@
 
 ## 🎯 Especialidades
 
-- ☕ **Java** (8 anos) - Versões 8 até 21
-- 🍃 **Spring Boot** (7 anos) - Web, MVC, Data, JDBC, WS
+- ☕ **Java** Versões 8 até 21
+- 🍃 **Spring Boot** Web, MVC, Data, JDBC, WS
 - 🏗️ **Arquitetura Hexagonal** e Service
 - 🔄 **Microserviços** e aplicações monolíticas
 - 🌩️ **AWS** e desenvolvimento de lambdas
